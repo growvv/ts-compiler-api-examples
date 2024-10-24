@@ -1,0 +1,16 @@
+接下来我们将详细介绍 TypeScript 编译器 API 中的 ts.factory 下的 类型节点 (Type Nodes)。本部分将涵盖以下类别：
+
+1. 基本类型 (Basic Types)
+2. 类型引用 (Type References)
+3. 联合类型 (Union Types)
+4. 交叉类型 (Intersection Types)
+5. 数组类型 (Array Types)
+6. 元组类型 (Tuple Types)
+7. 函数类型 (Function Types)
+8. 泛型类型 (Generic Types)
+9. 类型参数 (Type Parameters)
+10. 类型操作符 (Type Operators)
+11. 类型断言 (Type Assertions)
+12. 映射类型 (Mapped Types)
+13. 条件类型 (Conditional Types)
+14. 其他类型节点 (Other Type Nodes)
