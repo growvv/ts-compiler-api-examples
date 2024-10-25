@@ -1,0 +1,37 @@
+[
+    {
+        "name": "ControlFlowAndStructures",
+        "documentation": "",
+        "type": "typeof ControlFlowAndStructures",
+        "constructors": [
+            {
+                "parameters": [],
+                "returnType": "ControlFlowAndStructures",
+                "documentation": ""
+            }
+        ]
+    },
+    {
+        "name": "C",
+        "documentation": "Documentation for C",
+        "type": "typeof C",
+        "constructors": [
+            {
+                "parameters": [
+                    {
+                        "name": "a",
+                        "documentation": "my parameter documentation",
+                        "type": "string"
+                    },
+                    {
+                        "name": "b",
+                        "documentation": "another parameter documentation",
+                        "type": "C"
+                    }
+                ],
+                "returnType": "C",
+                "documentation": "constructor documentation"
+            }
+        ]
+    }
+]
